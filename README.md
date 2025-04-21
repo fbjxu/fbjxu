@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fbjxu
 - 👀 I’m interested in philosophy
-- 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on anything that's fun!
 - 📫 How to reach me: through github
 
